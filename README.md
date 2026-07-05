@@ -5,8 +5,8 @@ Bridges ROS1 (Noetic) topics to ROS2 (Humble).
 ## Quick start
 
 ```bash
-git clone <this-repo-url>
-cd /path/to/ros1_bridge_docker
+git clone https://github.com/paololais/ros1_ros2_bridge.git
+cd /path/to/ros1_ros2_bridge
 ```
 
 Build the image (~15-25 min, one-time)
